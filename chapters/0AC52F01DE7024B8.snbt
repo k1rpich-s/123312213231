@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0AC52F01DE7024B8"
+	group: "234DBDC6207747A2"
+	id: "0AC52F01DE7024B8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Описание"
+			"Второе описание"
+			"{@pagebreak}"
+			"{@pagebreak}"
+		]
+		id: "3C807CB392D40764"
+		subtitle: "Подзаголовок"
+		tasks: [{
+			id: "7CEE99D2A5276C3E"
+			item: "minecraft:stone"
+			type: "item"
+		}]
+		title: "Название"
+		x: -0.5d
+		y: 0.5d
+	}]
+	title: "Хранение"
+}

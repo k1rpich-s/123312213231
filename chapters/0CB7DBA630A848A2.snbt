@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "0CB7DBA630A848A2"
+	group: "43D6D09DFF9DA862"
+	id: "0CB7DBA630A848A2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Описание"
+			"Второе описание"
+			"{@pagebreak}"
+			"{@pagebreak}"
+		]
+		id: "2CAA79B4F74BF304"
+		subtitle: "Подзаголовок"
+		tasks: [{
+			id: "46F5A8F2BD7B64C2"
+			item: "minecraft:stone"
+			type: "item"
+		}]
+		title: "Название"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Автоматизация"
+}

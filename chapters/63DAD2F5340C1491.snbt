@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "63DAD2F5340C1491"
+	group: "234DBDC6207747A2"
+	id: "63DAD2F5340C1491"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Описание"
+			"Второе описание"
+			"{@pagebreak}"
+			"{@pagebreak}"
+		]
+		id: "434FCE5FF3884DD1"
+		subtitle: "Подзаголовок"
+		tasks: [{
+			id: "4CA9C836E14ADF98"
+			item: "minecraft:stone"
+			type: "item"
+		}]
+		title: "Название"
+		x: -1.5d
+		y: 0.0d
+	}]
+	title: "Индустриализация"
+}

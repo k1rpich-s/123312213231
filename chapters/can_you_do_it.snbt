@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "can_you_do_it"
+	group: "2360E4FC8FEC34B8"
+	id: "7DFC1FCB87758EF2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: [
+			"Описание"
+			"Второе описание"
+			"{@pagebreak}"
+			"{@pagebreak}"
+		]
+		id: "08F8942A41D8A53E"
+		subtitle: "Подзаголовок"
+		tasks: [{
+			id: "139A5F2E33A86FAA"
+			item: "minecraft:stone"
+			type: "item"
+		}]
+		title: "Название"
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Can you do it?"
+}

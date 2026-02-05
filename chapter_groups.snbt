@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "234DBDC6207747A2", title: "Early-Game" }
+		{ id: "62C26C8E5EF35A98", title: "Mid-Game" }
+		{ id: "43D6D09DFF9DA862", title: "End-Game" }
+		{ id: "2360E4FC8FEC34B8", title: "Challanges" }
+	]
+}
